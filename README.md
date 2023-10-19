@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Virendra Patil</h1>
 <h3 align="center">A Data Analyst, unveiling stories hidden in data.</h3>
 
+- 🔭 I’m currently working at **HCL Technologies**
+
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
 
 - 👨‍💻 All of my projects are available [here](https://codebasics.io/portfolio/B-O-Neha-Virendra-Patil)
