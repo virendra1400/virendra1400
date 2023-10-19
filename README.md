@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/B-O-Neha-Virendra-Patil](https://codebasics.io/portfolio/B-O-Neha-Virendra-Patil)
+- 👨‍💻 All of my projects are available [here](https://codebasics.io/portfolio/B-O-Neha-Virendra-Patil)
 
 - 📫 How to reach me **virendra1400@gmail.com**
 
